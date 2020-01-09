@@ -13,4 +13,4 @@ Keyboard_Events:
 
 Have fun
 
-thx for source images: https://github.com/Techlorine/Halli_Galli/img
+thx for source images: https://github.com/Techlorine/Halli_Galli/tree/master/img
