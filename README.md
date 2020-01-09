@@ -12,3 +12,5 @@ Keyboard_Events:
   Player1: discard "."  bell "/"
 
 Have fun
+
+thx for source images: https://github.com/Techlorine/Halli_Galli/img
