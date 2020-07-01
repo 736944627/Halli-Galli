@@ -1,4 +1,4 @@
-# Halli-Galli-
+# Tabletop Game: Halli-Galli（桌游：德国心脏病）
 Halli Galli ------ by Python
 
 Keyboard_Events:
